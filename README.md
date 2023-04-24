@@ -32,6 +32,6 @@ This will open a GUI window where you can enter the product name and select the 
 
 ## License
 
-This program is licensed under the MIT License.
+This program is licensed under the MIT License. See the `LICENSE` file for more information.
 
 **Warning: This program is for educational purposes only. Scraping data from websites without permission may be illegal or violate the website's terms of service. Use at your own risk.**
